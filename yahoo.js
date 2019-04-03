@@ -1,5 +1,5 @@
 /* coded by Ray */
-/* valid email yaho cek */
+/* valid email yahoo cek */
 
 var requ = require('request') ;  // npm install --save request
 var colo = require('colors')  ;  // npm install --save colors
