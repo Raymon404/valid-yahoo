@@ -1,4 +1,4 @@
-# valid-eyahoo
+# valid-yahoo
 Valid Check Email Yahoo
 
 #### install
